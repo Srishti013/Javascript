@@ -41,8 +41,7 @@ if ( !(c_1) )
 
 
 ## Switch Statement
-
-``javascript
+```javascript
 switch (expression) {
   case value1:
     // Code to run when the expression matches value1
@@ -53,4 +52,4 @@ switch (expression) {
   default:
   // Code to run when neither case matches
 }
-``
+```

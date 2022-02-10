@@ -5,3 +5,4 @@
 3) [Loops](/Loops/readme.md)
 4) [Functions](/Functions/readme.md)
 5) [Objects And Method](/Objects/readme.md)
+6) [Arrays](/Arrays/readme.md)

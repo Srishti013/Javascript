@@ -63,3 +63,12 @@ Myarray.pop() // Removes 5
 // To remove 2 elements starting from index 0
 Myarray.splice(0,2) // Removes 0,element1
 ```
+
+## map() Method
+
+```javascript
+
+const num = [1,2,3,4];
+const sq = num.map( n => n**2); // sq = [1,4,9,16]
+
+```

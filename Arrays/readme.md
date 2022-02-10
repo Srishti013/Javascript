@@ -72,3 +72,21 @@ const num = [1,2,3,4];
 const sq = num.map( n => n**2); // sq = [1,4,9,16]
 
 ```
+
+## filter Method
+
+```javascript
+
+const num = [1,2,3,4];
+const greaterThan2 = num.filter( n => n>2); // greaterThan2 = [3,4]
+
+```
+
+## reduce Method
+
+```javascript
+
+const num = [1,2,3,4];
+const sum = num.reduce( (acc,value) => acc+value,0); // sum = 10
+
+```

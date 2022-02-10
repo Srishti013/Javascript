@@ -4,4 +4,4 @@
 2) [Conditions](/Conditions/readme.md)
 3) [Loops](/Loops/readme.md)
 4) [Functions](/Functions/readme.md)
-5) [Objects](/Objects/readme.md)
+5) [Objects And Method](/Objects/readme.md)

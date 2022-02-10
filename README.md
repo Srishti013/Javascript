@@ -7,3 +7,4 @@
 5) [Objects And Method](/Objects/readme.md)
 6) [Arrays](/Arrays/readme.md)
 7) [Strings](/Strings/readme.md)
+8) [Classes](/Classes/readme.md)
